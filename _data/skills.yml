@@ -1,33 +1,29 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+  - item: Gestion de projet
+  - item: Planification
+  - item: Création de sites web
+  - item: Communication et marketing
+  - item: Développement
+  - item: Relations publiques
+  - item: Conseil
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: WordPress
+  - item: Adobe Creative Suite
+  - item: Mailchimp
+  - item: Substack
+  - item: Trello
+  - item: Github
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Français
+  - item: Anglais
+  - item: Allemand
+  - item: Frespagnol
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Nouveaux médias
+  - item: Vie associative
+  - item: Art contemporain
+  - item: Design graphique
+  - item: Politique
