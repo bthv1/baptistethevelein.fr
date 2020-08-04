@@ -1,11 +1,11 @@
 # Site settings
 name: Baptiste Thevelein
 title: Baptiste Thevelein
-description: Création de sites internet, identités visuelles, médias.
+description: Je crée et accompagne des projets dans l'ESS et les médias.
 url: https://baptistethevelein.fr
 baseurl: ''
 email: baptiste@thevelein.fr
-cover: https://bchiang7.github.io/img/og.png
+cover: https://baptistethevelein.fr/img/cover.png
 logo: https://baptistethevelein.fr/img/emojis/male-technologist.png
 resume: https://baptistethevelein.fr/cv.pdf
 social:
