@@ -8,15 +8,15 @@
   time: Avril 2019 — Aujourd'hui
   position: Cofondateur et président
 
-- company: Spintank
-  url: https://spintank.com
-  time: Fév. 2019 - Aujourd'hui
-  position: Chef de projet communauté pour Le Tank media
-
-- company: Animafac
+  - company: Animafac
   url: https://animafac.net
   time: Sept. 2018 — Aujourd'hui
   position: Président
+
+- company: Spintank
+  url: https://spintank.com
+  time: Fév. 2019 - Août 2020
+  position: Chef de projet communauté pour Le Tank media
 
 - company: Maze.fr
   url: https://maze.fr
